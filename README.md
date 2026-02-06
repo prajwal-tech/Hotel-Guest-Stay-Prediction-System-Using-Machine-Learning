@@ -1,4 +1,4 @@
- #Inventory Forecasting & Par Level Recommendation System — README
+Inventory Forecasting & Par Level Recommendation System
  Overview
 
 This project builds an end-to-end forecasting and inventory recommendation system for a hotel chain operating multiple bar locations. The goal is to prevent stockouts of fast-moving items and avoid overstocking slow movers, both of which increase operational cost and hurt guest satisfaction.
@@ -11,6 +11,7 @@ Recommend optimal par levels
 
 Simulate day-to-day inventory usage
 
+
  Business Problem
 
 Hotels with multiple bar outlets face recurring challenges:
@@ -22,6 +23,8 @@ Slow-moving stock piles up, tying up capital & storage
 Managers manually estimate stock levels, leading to errors
 
 No standardized decision system across locations
+
+
 
 These issues directly affect:
 
@@ -100,7 +103,5 @@ pandas
 numpy
 
 matplotlib
-
-scikit-learn (optional)
 
 Jupyter Notebook
